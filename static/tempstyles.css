@@ -1,10 +1,10 @@
 body 
  { 
      font-family: sans-serif;
-      background-image:  url('https://bit.ly/2MDFN0G');
+      background-color: rgb(161, 232, 245);
     }
 h1, h2, h3, h4{
-            color:  rgb(37, 107, 4);
+            color:  rgb(247, 39, 184);
          }
 h1, h2{
      font-family: 'Georgia', serif;
@@ -18,7 +18,7 @@ h2{
  }
 
 p{
-    color: #6ce932;
+    color: #0f60f7;
     font-size: 1.7em;
 }
 
@@ -61,5 +61,5 @@ a{
 }
 
 .flash{
-     background: rgb(223, 7, 223);
+     background: #f8e10f;
     }

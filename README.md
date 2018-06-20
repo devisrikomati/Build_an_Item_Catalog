@@ -21,9 +21,11 @@
 ##For Google Login
 --For API client ID:
  we generate the client ID for the project by using Google Dev Console
-    After generating API client ID for project then use that ID in login.html file
-    Then after download the JSON file and use that file in our mainproject.py file.
+    After generating API client ID that ID is placed into login.html file.
+    All html files are automatically connected with last python file i.e., mainproject.py .
+    whenever its completed go to flask in that open cmd here and run the python file. 
 ##way of running 
 --python database_setup.py to get the database.
 --python clothes.py to get the data file.
 --python mainproject.py to final output. 
+--Then go to webbrowser and type the localhost:5000.
